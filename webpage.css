@@ -1,0 +1,59 @@
+body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.navbar-fixed-top{
+	background-color: #f07f0b;
+	height: 70px;
+	border-radius: 0px !important;
+}
+
+.carousel-inner img {
+      -webkit-filter: grayscale(90%);
+      filter: grayscale(90%); /* make all photos black and white */ 
+      width: 100%; /* Set width to 100% */
+      
+  }
+.carousel .item {
+  height: 500px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+ .container{
+ 	width: 100%;
+ 	
+ } 
+ .about{
+ 	margin-left: 30px;
+ }
+.container.heading{
+	text-align: center;
+}
+
+form{
+	padding-top: 15px;
+}
+
+.formdata{
+	width: 412px; 
+	border-radius: 5px;
+}
+
+.row{
+	padding-top: 14px;
+}
+
+.message{
+	display: none;
+}
+
